@@ -1,5 +1,5 @@
 #My Log
--1.this is myself create log
+-1.this is create log by myself.
 
 
 
